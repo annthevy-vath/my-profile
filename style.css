@@ -1,0 +1,94 @@
+body {
+	background-color: #d4e2d4;
+	color: #ecb390;
+	font-family: Gill Sans, sans-serif
+}
+
+
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+	color: #ffc93c;
+	font-family: American Typewriter, serif
+	
+
+}
+
+h2{
+	text-align: center;
+	font-size: 30px;
+}
+
+h3{
+	font-weight: 600;
+	font-size: 27px;
+}
+
+h2, h3 {
+	text-align: center;
+	color: #df7861
+}
+
+p{
+	font-size: 18px;
+	text-align: center;
+}
+
+
+
+custom design with class
+
+
+.container{
+
+	width: 500px
+	margin: 50px auto;
+}
+
+.card-design {
+	text-align: center;
+	background-color: #fcf8e8;
+	padding: 40px;
+	box-shadow: 8px 8px 12px #aaa;
+	border-radius: 40px;
+	margin: 20px 60px;
+}
+
+
+
+.img-circle{
+	box-shadow: 1px 1px 12px #555;
+	border-radius: 20px;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+display: inline;
+padding: 10px;
+}
+
+.list-inline i {
+	font-size: 50px;
+	color: #d4e2d4
+}
+.list-inline i:hover {
+	color: #df7861
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
