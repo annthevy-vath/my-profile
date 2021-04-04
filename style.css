@@ -11,8 +11,6 @@ h1 {
 	text-align: center;
 	color: #ffc93c;
 	font-family: American Typewriter, serif
-	
-
 }
 
 h2{
@@ -36,7 +34,6 @@ p{
 }
 
 
-
 custom design with class
 
 
@@ -46,6 +43,20 @@ custom design with class
 	margin: 50px auto;
 }
 
+
+@media (max-width: 760px) {
+	.container {
+		width: : 600px;
+	}
+}
+
+@media (max-width: 500px) {
+	.container {
+		width: :400px;
+	}
+}
+
+
 .card-design {
 	text-align: center;
 	background-color: #fcf8e8;
@@ -53,9 +64,7 @@ custom design with class
 	box-shadow: 8px 8px 12px #aaa;
 	border-radius: 40px;
 	margin: 20px 60px;
-}
-
-
+}	
 
 .img-circle{
 	box-shadow: 1px 1px 12px #555;
